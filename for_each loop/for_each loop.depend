@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598627251 source:c:\users\rimi das\onedrive\pictures\for_each loop\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
